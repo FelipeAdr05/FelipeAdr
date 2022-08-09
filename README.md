@@ -1,15 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8DC4FD&height=100&section=header&text=&fontSize=15&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8DC4FD&height=170&section=header&text=Felipe Adriel Nunes&fontSize=30&fontColor=0D1117&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8DC4FD&size=30&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Felipe+Adriel;Welcome+to+my+profile!;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8DC4FD&size=30&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Felipe+Adriel!;I'm+17+years+old!;Be+welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipeadr05&show_icons=true&count_private=true&hide_border=true&title_color=8DC4FD&icon_color=8DC4FD&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeadr05&layout=compact&hide_border=true&title_color=8DC4FD&text_color=8DC4FD&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=felipeadr05&theme=dark&hide_border=true&area=true)
   
   ##
+ <br/>
  
 <div align="center">
   <a href="https://www.linkedin.com/in/felipe-adriel-nunes-b44547224/" target="_blank">
@@ -26,8 +26,16 @@
   </a>
  
  
- 
   
 ![Snake animation](https://github.com/dbentooojj/dbentooojj/blob/output/github-contribution-grid-snake.svg) 
+  
+  ##
+  
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{felipeadr05}/count.svg" /></p> 
+<br></div>
  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8DC4FD&height=120&section=footer"/>
+  
 </div>
