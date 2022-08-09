@@ -25,9 +25,7 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="whatsapp logo"  />
   </a>
  
- 
-  
-![Snake animation](https://github.com/felipeadr05/felipeadr05/blob/output/github-contribution-grid-snake.svg) 
+
   
   ##
   
